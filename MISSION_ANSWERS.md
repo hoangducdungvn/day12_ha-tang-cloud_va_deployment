@@ -1,5 +1,9 @@
 # Day 12 Lab - Mission Answers
 
+> **Student Name:** Hoàng Đức Dũng  
+> **Student ID:** 2A202600814
+> **Date:** 12/06/2026
+
 ## Part 1: Localhost vs Production
 
 ### Exercise 1.1: Anti-patterns found

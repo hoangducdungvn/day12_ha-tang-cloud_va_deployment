@@ -1,5 +1,9 @@
 # Deployment Information
 
+> **Student Name:** Hoàng Đức Dũng  
+> **Student ID:** 2A202600814
+> **Date:** 12/06/2026
+
 ## Public URL
 https://ai-agent-production-98pj.onrender.com
 
