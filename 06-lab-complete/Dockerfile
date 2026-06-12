@@ -23,7 +23,7 @@ RUN groupadd -r agent && useradd -r -g agent -d /app agent
 WORKDIR /app
 
 # Copy packages từ builder
-COPY --from=builder /root/.local /home/agent/.local
+COPY --chown=agent:agent --from=builder /root/.local /home/agent/.local
 
 # Copy application
 COPY app/ ./app/
